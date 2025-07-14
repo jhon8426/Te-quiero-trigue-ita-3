@@ -74,9 +74,5 @@
     <img src="foto2.jpg" alt="Un momento juntos">
     <img src="foto3.jpg" alt="Jugando Minecraft juntos">
   </div>
-  <audio autoplay loop>
-    <source src="https://example.com/romantic-song.mp3" type="audio/mpeg">
-    Tu navegador no soporta audio HTML.
-  </audio>
 </body>
 </html>
